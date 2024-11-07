@@ -1,4 +1,5 @@
 # Specifically excluded files.
+directory_structure.txt
 reference.ipynb
 experiments.ipynb
 reference.txt
