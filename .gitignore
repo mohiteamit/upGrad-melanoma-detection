@@ -1,0 +1,52 @@
+# Specifically excluded files.
+telecom-churn-work-in-progress.ipynb
+Amit Mohite - Telecom Churn Prediction -*-.ipynb
+reference.ipynb
+experiments.ipynb
+reference.txt
+*.csv
+*.pkl
+*.zip
+
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment directories
+env/
+venv/
+ENV/
+.venv/
+.pyenv/
+pip-wheel-metadata/
+*.egg-info/
+
+# Log files
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Python virtual environments
+*.venv
+*.env
+
+# Testing and coverage reports
+htmlcov/
+.tox/
+.coverage
+coverage.xml
+.cache
+nosetests.xml
+pytest_cache/
