@@ -1,7 +1,7 @@
 # Specifically excluded files.
 directory_structure.txt
-reference.ipynb
-experiments.ipynb
+directory_structure2.txt
+Starter_code_Assignment_CNN_Skin_Cancer (1).ipynb
 reference.txt
 *.csv
 *.pkl
